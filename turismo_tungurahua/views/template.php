@@ -5,6 +5,7 @@
         
         <link rel="stylesheet" type="text/css" href="css/estilos.css">
         </head>
+
     <body>
         <header>
     
@@ -22,7 +23,8 @@
            $mvc= new MvController(); 
            $mvc -> enlacesPaginasController();
         ?>  
-        </section>   
+        </section> 
+  
         <footer>
             Creditos
 
