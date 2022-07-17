@@ -78,7 +78,7 @@
 </div>
 
 <div id="Caratula" >   
-    <img src="pictures/baños.jpg" class="uno_img">
+    <img src="pictures/baños1.jpg" class="uno_img">
     <div id="Introduccion">
     <table>
     <h2>BANOS</h2>
