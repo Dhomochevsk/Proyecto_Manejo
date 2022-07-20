@@ -3,9 +3,8 @@
 </head>
 <style>
 #Caratula{
-    background-color: #F29F05;
+    background-color:#FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(pictures/volcan.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 80%;
@@ -23,24 +22,14 @@
        height: 400px;
        padding: 30px;
        }
-#uno{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.9em;
-       height: 300px;
-       padding: 20px;
-       }
+
 .uno_img{
     padding: 20px;
-    width: 45%;
+    width: 46%;
     float: left;
     margin-right: 1em;
 }
-.dos_img{
-    padding: 20px;
-    width: 40%;
-    float: left;
-    margin-right: 1em;
-}
+
 </style> 
 <body>
 <div id="Caratula" >   
@@ -81,7 +70,7 @@
     <img src="pictures/baños1.jpg" class="uno_img">
     <div id="Introduccion">
     <table>
-    <h2>BANOS</h2>
+    <h2>BAÑOS</h2>
 <tr><td align="justify">Deliciosos platos típicos que podrás disfrutar en el Cantón Baños de Agua Santa. Es un deleite para los turistas, encontrar en un solo hermoso país la sazón de cuatro regiones es una locura que solo los ecuatorianos lo pueden hacer posible. A continuación se presentan algunos productos tradicionales de este lugar: <li>Melcochas y Dulces</li>
 <li>Jugo de Caña</li>
 <li>Sánduche - Cóctel</li>
@@ -92,7 +81,7 @@
 </div>
 
 <div id="Caratula" >   
-    <img src="pictures/patate1.jpg" class="uno_img">
+    <img src="pictures/pelileo1.jpg" class="uno_img">
     <div id="Introduccion">
     <table>
     <h2>PELILEO</h2>
@@ -101,13 +90,13 @@
 <li>Fritada</li>
 <li>Empanadas de tiesto</li>
 <li>Cuyes</li>
-<li>Hornado</li>
+<li>Hornado</li></td></tr>
 </table> 
     </div>
 </div>
 
 <div id="Caratula" >   
-    <img src="pictures/pelileo1.jpg" class="uno_img">
+    <img src="pictures/patate1.jpg" class="uno_img">
     <div id="Introduccion">
     <table>
     <h2>PATATE</h2>
@@ -116,7 +105,7 @@ conocidas están la deliciosa trucha a la mandarina, arepas, vino de uvas
 de la zona, chicha, espumilla y más.
 <li>Vino de uva</li>
 <li>Chicha de Uva</li>
-<li>Arepas de Zapallo</li>
+<li>Arepas de Zapallo</li></td></tr>
 </table> 
     </div>
 </div>
