@@ -43,16 +43,7 @@
 }
 </style> 
 <body>
-<div id="Caratula" >   
-    <div id="Introduccion">
-    <p>
-    Tungurahua es una de las 24 provincias que conforman la República del Ecuador, situada en el centro del país,
-    en la zona geográfica conocida como región interandina o sierra, principalmente sobre la hoya de Patate. 
-    Su capital administrativa es la ciudad de Ambato, la cual además es su urbe más grande y poblada
-    </p> 
-    
-    </div>
-</div>
+
 <div id="uno">
     
 
