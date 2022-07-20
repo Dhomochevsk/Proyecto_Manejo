@@ -43,20 +43,11 @@
 }
 </style> 
 <body>
-<div id="Caratula" >   
-    <div id="Introduccion">
-    <p>
-    Tungurahua es una de las 24 provincias que conforman la República del Ecuador, situada en el centro del país,
-    en la zona geográfica conocida como región interandina o sierra, principalmente sobre la hoya de Patate. 
-    Su capital administrativa es la ciudad de Ambato, la cual además es su urbe más grande y poblada
-    </p> 
-    
-    </div>
-</div>
+
 <div id="uno">
     
 
-<img src="pictures/LUPELILEO.png" class="uno_img">
+<img src="pictures/LUAMBATO.png" class="uno_img">
 <h2>AMBATO</h2>
 <p>
 Se encuentra en la Cordillera Occidental, está enclavada en una hondonada formada por seis mesetas: 
@@ -68,7 +59,7 @@ Se encuentra en la Cordillera Occidental, está enclavada en una hondonada forma
 
 <div id="uno">
 
-<img src="pictures/LUAMBATO.png" class="dos_img">
+<img src="pictures/LUPELILEO.png" class="dos_img">
 <h2>PELILEO</h2>
 <p>
 La ciudad está ubicada en el centro del país, al suroccidente de la Provincia de Tungurahua a 
@@ -80,7 +71,7 @@ La ciudad está ubicada en el centro del país, al suroccidente de la Provincia 
 
 <div id="uno">
 
-<img src="pictures/LUPATATE.png" class="uno_img">
+<img src="pictures/LUBAÑOS.png" class="uno_img">
 <h2>BAÑOS</h2>
 <p>
 Situado en los flancos externos de la cordillera oriental de los Andes, en las 
