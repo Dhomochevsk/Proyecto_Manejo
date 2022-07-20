@@ -75,6 +75,7 @@ importantes que tiene Tungurahua en las 9 rutas agroturísticas.
 <h2 id="Frutas_Flores">Fiesta de las flores y las frutas en Ambato</h2>
 <img src="pictures/carnabal.jpg" class="uno_img">
 <p>
+<li>Fecha: 18 al 21 de febrero</li><br>
 Esta fiesta popular es la más importante para sus pobladores. 
 Se lleva a cabo entre los meses de febrero y marzo. Tiene cuatro 
 números principales alrededor de los cuales gira toda la celebración: 
@@ -88,6 +89,7 @@ Frutas y el Pan, el Desfile de la Confraternidad y La Ronda Nocturnal.<br><br>
 <h2 id="Sol_Noviembre">Sol de Noviembre</h2>
 <img src="pictures/Sol.PNG" class="dos_img">
 <p>
+<li>Fecha: 30 de octubre hasta el 30 de noviembre</li><br>
 Ambato celebra la gesta libertaria del 12 de noviembre de 1820 con un 
 mes de manifestaciones culturales, artísticas y musicales que se denomina 
 ‘Sol de Noviembre’.<br><br>
@@ -98,6 +100,7 @@ mes de manifestaciones culturales, artísticas y musicales que se denomina
 <h2 id="diablada">La diablada pillareña</h2>
 <img src="pictures/diabladaaldianews.jpg" class="uno_img">
 <p>
+<li>Fecha: 25 al 29 de diciembre</li><br>
 El cantón Píllaro revive la mágica tradición ancestral de la diablada, 
 que reúne a una gran número de turistas de distintas partes del Ecuador 
 y el extranjero para disfrutar de baile, colorido e increíbles máscaras 
@@ -110,6 +113,7 @@ https://www.goraymi.com/es-ec/tungurahua/pillaro/fiestas-tradicionales/diablada-
 <h2 id="Señor_Terremoto">Señor del Terremoto de Patate</h2>
 <img src="pictures/terremoto.jpg" class="dos_img">
 <p>
+<li>Fecha: 04 de febrero</li><br>
 Cada febrero, el pueblo de Patate se alista para celebrar las festividades en 
 honor al Señor del Terremoto, patrono del ‘Valle de la eterna primavera”. 
 Para el efecto, el comité de fiestas y autoridades municipales organizan 
